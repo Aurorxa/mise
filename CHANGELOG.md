@@ -1,5 +1,14 @@
 # Changelog
 
+## [2026.3.6](https://github.com/jdx/mise/compare/v2026.3.5..v2026.3.6) - 2026-03-08
+
+### 📦 Aqua Registry Updates
+
+#### New Packages (2)
+
+- [`majorcontext/moat`](https://github.com/majorcontext/moat)
+- [`sudorandom/fauxrpc`](https://github.com/sudorandom/fauxrpc)
+
 ## [2026.3.5](https://github.com/jdx/mise/compare/v2026.3.4..v2026.3.5) - 2026-03-07
 
 ### 🚀 Features
